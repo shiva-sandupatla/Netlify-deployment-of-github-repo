@@ -31,3 +31,7 @@ If you want to deploy github **private repo** to netlify, using **netlify API**.
 
 In the above **deploy_key_id** is the **id** you got in the 2nd step.
 5. Boom!! congratulations, your site has been deployed successfully.
+
+<hr>
+
+if you found any trouble feel free to add issue
